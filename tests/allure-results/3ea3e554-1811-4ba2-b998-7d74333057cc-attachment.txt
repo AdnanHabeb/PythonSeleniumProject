@@ -1,0 +1,10 @@
+Element with ID '0' not found or not clickable.
+Element with ID '1' not found or not clickable.
+Element with ID '2' not found or not clickable.
+Element with ID '3' not found or not clickable.
+Element with ID '4' not found or not clickable.
+Element with ID '5' not found or not clickable.
+Element with ID '6' not found or not clickable.
+Element with ID '7' not found or not clickable.
+Element with ID '8' not found or not clickable.
+Element with ID '9' not found or not clickable.
